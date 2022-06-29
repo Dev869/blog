@@ -1,11 +1,9 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : Devin's Blog
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
-baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+                      Bikes, photos, and college things.
+baseurl             : "/blog"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : Dev869/Dev869.github.io   # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
@@ -25,13 +23,13 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
-  image             : https://i.imgur.com/uyDNQnn.jpg
+  name              : Devin Wilson
+  image             : https://dgalywyr863hv.cloudfront.net/pictures/athletes/1532137/761037/21/large.jpg
   behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
+  email             : devwilson@ucdavis.edu
   facebook          : your_username
-  github            : your_username
+  github            : dev869
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
