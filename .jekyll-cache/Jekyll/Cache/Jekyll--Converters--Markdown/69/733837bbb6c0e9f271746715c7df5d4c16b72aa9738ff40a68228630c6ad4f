@@ -1,0 +1,16 @@
+I"6<div class="row justify-content-center align-items-center p-4">
+  <div class="col-lg-4 col-md-6 text-center mt-4">
+
+    <!-- Fine Circle Responsive Image -->
+    <div id="container" class="my-2">
+      <div id="dummy"></div>
+      <div id="element">
+        <img src="https://images-pw.pixieset.com/elementfield/91034346/20200229-WIL_1537_Original-2-2fb44ab7.jpg" alt="Devin Wilson" class="circle-image wow animated zoomIn" data-wow-delay=".1s" />
+      </div>
+    </div>
+
+    <p class="text-muted wow animated slideInUp" data-wow-delay=".15s"></p>
+
+  </div>
+</div>
+:ET
