@@ -1,7 +1,7 @@
-- name: Photography
-  percentage: 90
+- name: Adobe Photoshop
+  percentage: 95
   color: info
 
-- name: Bikes?
-  percentage: 95
+- name: Adobe Illustrator
+  percentage: 90
   color: success

@@ -1,9 +1,11 @@
 ### Site Settings ###
-title               : Devin Wilson
+title               : portfolYOU
 description         : >-
-                      All things bikes, photography, projects, and everything in between.
-baseurl             : "/blog"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : Dev869/Dev869.github.io   # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+                      I turn coffee :coffee: into code,
+                      use tabs over spaces
+                      and never broke production.
+baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
@@ -18,28 +20,29 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
+  - documentation/partials/**                           # For Documentation Only
 
 
 ### Author Info ###
 author:
-  name              : Devin Wilson
-  image             : https://dgalywyr863hv.cloudfront.net/pictures/athletes/1532137/761037/21/large.jpg
-#  behance           : your_username
+  name              : John Doe
+  image             : https://i.imgur.com/uyDNQnn.jpg
+  behance           : your_username
 # dribbble          : your_username
-  email             : devwilson@ucdavis.edu
+  email             : username@domain.com
   facebook          : your_username
-  github            : dev869
+  github            : your_username
 # gitlab            : your_username
-  instagram         : devinwilson.jpg
+# instagram         : your_username
 # kaggle            : your_username
-# linkedin          : your_username
-#  medium            : your_username
+  linkedin          : your_username
+  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-#  twitter           : your_username
+  twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
@@ -54,6 +57,8 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
+  elements:                                             # For Documentation Only
+    output: true                                        # For Documentation Only
 
 
 ### Disqus ###
@@ -85,6 +90,11 @@ defaults:
       type: "projects"
     values:
       layout: "page"
+  - scope:                                              # For Documentation Only
+      path: ""                                          # For Documentation Only
+      type: "elements"                                  # For Documentation Only
+    values:                                             # For Documentation Only
+      layout: "element"                                 # For Documentation Only
   - scope:
       path: ""
       type: "posts"
