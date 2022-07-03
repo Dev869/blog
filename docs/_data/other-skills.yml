@@ -1,3 +1,11 @@
+- name: Adobe Lightroom
+	percentage: 90
+	color: primary
+	
 - name: Adobe Photoshop
-  percentage: 95
+  percentage: 60
   color: info
+
+- name: Adobe Illustrator
+	percentage: 50
+	color: danger
