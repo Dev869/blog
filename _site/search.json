@@ -1,10 +1,26 @@
 [
   
     {
+      "title"    : "Rozebeke Kermis RaceReport",
+      "category" : "",
+      "tags"     : "Race Reports",
+      "url"      : "/blog/blog/belgium-race-2",
+      "date"     : "2022-07-03 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Bever Kermis RaceReport",
       "category" : "",
       "tags"     : "Race Reports",
       "url"      : "/blog/blog/belgium-race-1",
+      "date"     : "2022-07-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cycling In Belgium - DayPost 2",
+      "category" : "",
+      "tags"     : "Cycling",
+      "url"      : "/blog/blog/belgium-day-2",
       "date"     : "2022-07-03 00:00:00 +0200"
     } ,
   
