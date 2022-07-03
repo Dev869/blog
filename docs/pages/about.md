@@ -9,7 +9,7 @@ weight: 2
 
 Hi I am **{{ site.author.name }}**. I am an undergraduate CS student at University of California, Davis as well as a competetive cyclist currently racing for Team California in the DET ranks. In addition to my life as a student and a cylist, I enjoy taking photos on the side as a sort of creative outlet.
 
-![alt text](/blog/docs/assets/me.jpg "Me")
+![alt text](../assets/images/me.jpg "Me")
 
 <br>
 <div class="row">
