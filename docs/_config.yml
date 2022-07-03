@@ -18,7 +18,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Devin Wilson
-  image             : docs/_images/me_tt.jpg
+  image             : https://github.com/Dev869/blog/blob/main/docs/_images/me_tt.jpg?raw=true
 # behance           : your_username
 # dribbble          : your_username
   email             : devwilson@ucdavis.edu
