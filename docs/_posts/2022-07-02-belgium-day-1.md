@@ -1,6 +1,6 @@
 ---
-title: Cycling in Belgium - Post 1
-tags: [Racing, Cycling]
+title: Cycling In Belgium - DayPost 1
+tags: [Cycling]
 style: fill
 color: success
 description: My first encounter with racing in Europe.
@@ -14,5 +14,5 @@ Being a rider from California and traveling to the other side of the world in Be
 
 I flew in June 30. At the time that I'm writing this it's July 2. Although it's been a few days, I'm still getting over the travel. Actually, the jet lag effected me a lot more than I thought it would. Right now I'm on hour 36 or so of being up with only 2 hours worth of naps. I also raced my first kermis today (more on that later) and I can't say that was the easiest experience on such little sleep.
 
-## I have a lot to learn.
+*That's all for now, but I have a few race reports coming up.*
 
