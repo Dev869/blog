@@ -9,13 +9,3 @@
 - name: Product
 	percentage: 70
 	color: primary
-
-- name: Landscape
-	percentage: 70
-	color: danger
-
-- name: Abtract
-	percentage: 70
-	color: primary
-
-
