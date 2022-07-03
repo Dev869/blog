@@ -14,7 +14,6 @@ Hi I am **{{ site.author.name }}**. I am an undergraduate CS student at Universi
 <br>
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Photography Skills" source=site.data.photography-skills %}
 {% include about/skills.html title="Software Skills" source=site.data.software-skills %}
 </div>
 
