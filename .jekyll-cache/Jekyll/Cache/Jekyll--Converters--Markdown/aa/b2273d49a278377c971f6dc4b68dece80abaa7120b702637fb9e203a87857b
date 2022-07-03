@@ -1,11 +1,12 @@
-I"S<div class="row justify-content-center align-items-center p-4">
+I"
+<div class="row justify-content-center align-items-center p-4">
   <div class="col-lg-4 col-md-6 text-center mt-4">
 
     <!-- Fine Circle Responsive Image -->
     <div id="container" class="my-2">
       <div id="dummy"></div>
       <div id="element">
-        <img src="https://github.com/Dev869/blog/blob/b2713c9dd634c4f283132764732420a261aa011d/assets/images/me_tt.jpg" alt="Devin Wilson" class="circle-image wow animated zoomIn" data-wow-delay=".1s" />
+        <img src="/blog/docs/assets/me_tt.jpg" alt="Devin Wilson" class="circle-image wow animated zoomIn" data-wow-delay=".1s" />
       </div>
     </div>
 
