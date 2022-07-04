@@ -401,7 +401,7 @@ body { font-family: "Poppins", sans-serif; }
 /* Comment.PreprocFile */
 [data-theme="light"] #theme-toggler:before { content: "🌙"; }
 
-[data-theme="dark"] #theme-toggler:before { content: "🌞"; }
+[data-theme="dark"] #theme-toggler:before { content: "☀️"; }
 
 [data-theme="light"] .navbar-themed .navbar-brand, [data-theme="light"] .navbar-themed .navbar-nav .nav-link.active { color: #343a40; }
 
