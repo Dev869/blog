@@ -1,9 +1,9 @@
 ---
 title: Bever Kermis RaceReport
-tags: [Race Reports]
+tags: [Cycling, Race Reports]
 style: fill
 color: danger
-description: 
+description: My first kermis after 10 years of racing bikes in the US. 
 ---
 
 ## Pre Race
