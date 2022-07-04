@@ -1,6 +1,6 @@
 ---
 title: Cycling In Belgium - DayPost 1
-tags: [Cycling]
+tags: [Cycling, DayPost]
 style: fill
 color: success
 description: My first encounter with racing in Europe.

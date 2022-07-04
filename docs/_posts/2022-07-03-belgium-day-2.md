@@ -1,6 +1,6 @@
 ---
 title: Cycling In Belgium - DayPost 2
-tags: [Cycling]
+tags: [Cycling, DayPost]
 style: fill
 color: success
 description: Working through how to race successfully in Europe
