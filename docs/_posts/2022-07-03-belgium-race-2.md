@@ -6,13 +6,6 @@ color: danger
 description: One of the fastest, most difficult races I've ever entered.
 ---
 
-{% capture carousel_images %}
-../assets/carousels/2022-07-03/at_race.jpg
-../assets/carousels/2022-07-03/at_race2.jpg
-../assets/carousels/2022-07-03/bikewash.jpg
-{% endcapture %}
-{% include elements/carousel.html %}
-
 ## Pre Race
 
 **Nutrition**
@@ -69,3 +62,12 @@ Started out chill-ish like the day before but for more of a half lap than a full
 
 - [Results Sheet](https://cycling.vlaanderen//competitie/uitslagen/detail?date=2022-07-03&key=5352)
 - [Strava Ride](https://www.strava.com/activities/7408821052)
+
+## Media
+
+{% capture carousel_images %}
+../assets/carousels/2022-07-03/at_race.jpg
+../assets/carousels/2022-07-03/at_race2.jpg
+../assets/carousels/2022-07-03/bikewash.jpg
+{% endcapture %}
+{% include elements/carousel.html %}
