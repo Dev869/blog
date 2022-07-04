@@ -10,7 +10,6 @@ description: One of the fastest, most difficult races I've ever entered.
 ../assets/carousels/2022-07-03/at_race.jpg
 ../assets/carousels/2022-07-03/at_race2.jpg
 ../assets/carousels/2022-07-03/bikewash.jpg
-../assets/carousels/2022-07-03/video.mov
 {% endcapture %}
 {% include elements/carousel.html %}
 
