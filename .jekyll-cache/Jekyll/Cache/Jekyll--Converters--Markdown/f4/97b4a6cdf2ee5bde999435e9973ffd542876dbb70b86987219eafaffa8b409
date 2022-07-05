@@ -1,0 +1,60 @@
+I"Æ<h2 id="pre-race">Pre Race</h2>
+
+<p><strong>Nutrition</strong></p>
+
+<p><strong>Preparation</strong></p>
+
+<p><strong>Goals</strong></p>
+
+<h2 id="pre-start-at-the-race">Pre Start (At the race)</h2>
+
+<p><strong>Warmup</strong></p>
+
+<p><strong>Jersey Pockets</strong></p>
+
+<p><strong>The Course</strong></p>
+
+<h2 id="race-summary">Race Summary</h2>
+
+<h3 id="race-data">Race Data</h3>
+
+<h2 id="post-race-notes">Post Race Notes</h2>
+
+<p><strong>What I Did Well</strong></p>
+
+<p><strong>What I Need to Work On</strong></p>
+
+<h2 id="links">Links</h2>
+
+<ul>
+  <li><a href="TODO">Results Sheet</a></li>
+  <li><a href="TODO">Strava Ride</a></li>
+</ul>
+
+<h2 id="media">Media</h2>
+
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="false">
+
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+  </ol>
+
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+          <img src="TODO" class="d-block w-100" />
+        </div>
+  </div>
+
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+
+</div>
+
+:ET
