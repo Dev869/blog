@@ -1,37 +1,47 @@
-<h2 id="pre-race">Pre Race</h2>
+## Pre Race
 
-<p><strong>Nutrition</strong></p>
+**Nutrition**
 
-<p><strong>Preparation</strong></p>
+**Preparation**
 
-<p><strong>Goals</strong></p>
 
-<h2 id="pre-start-at-the-race">Pre Start (At the race)</h2>
+**Goals**
 
-<p><strong>Warmup</strong></p>
 
-<p><strong>Jersey Pockets</strong></p>
+## Pre Start (At the race)
 
-<p><strong>The Course</strong></p>
+**Warmup**
 
-<h2 id="race-summary">Race Summary</h2>
 
-<h3 id="race-data">Race Data</h3>
+**Jersey Pockets**
 
-<h2 id="post-race-notes">Post Race Notes</h2>
 
-<p><strong>What I Did Well</strong></p>
+**The Course**
 
-<p><strong>What I Need to Work On</strong></p>
 
-<h2 id="links">Links</h2>
+## Race Summary
 
-<ul>
-  <li><a href="TODO">Results Sheet</a></li>
-  <li><a href="TODO">Strava Ride</a></li>
-</ul>
 
-<h2 id="media">Media</h2>
+
+### Race Data
+
+
+
+## Post Race Notes
+
+**What I Did Well**
+
+
+**What I Need to Work On**
+
+
+## Links
+
+- [Results Sheet](TODO)
+- [Strava Ride](TODO)
+
+## Media
+
 
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="false">
 
@@ -41,7 +51,7 @@
 
   <div class="carousel-inner">
     <div class="carousel-item active">
-          <img src="TODO" class="d-block w-100" />
+          <img src="TODO" class="d-block w-100">
         </div>
   </div>
 
