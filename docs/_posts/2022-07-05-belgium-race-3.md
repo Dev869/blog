@@ -67,8 +67,4 @@ I stayed in the whole race this time :) . It was pretty flat and more similar to
 
 ## Media
 
-{% capture carousel_images %}
-
-
-{% endcapture %}
-{% include elements/carousel.html %}
+{% include elements/video.html id="aJovuLovUNg" %}
