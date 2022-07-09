@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Cycling In Belgium - LifePost 2",
+      "category" : "",
+      "tags"     : "Cycling, DayPost",
+      "url"      : "/blog/blog/belgium-life-2",
+      "date"     : "2022-07-09 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Opdorp Kermis RaceReport",
       "category" : "",
       "tags"     : "Cycling, Race Reports",
@@ -25,18 +33,10 @@
     } ,
   
     {
-      "title"    : "Cycling In Belgium - DayPost 2",
+      "title"    : "Cycling In Belgium - LifePost 1",
       "category" : "",
       "tags"     : "Cycling, DayPost",
-      "url"      : "/blog/blog/belgium-day-2",
-      "date"     : "2022-07-03 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Cycling In Belgium - DayPost 1",
-      "category" : "",
-      "tags"     : "Cycling, DayPost",
-      "url"      : "/blog/blog/belgium-day-1",
+      "url"      : "/blog/blog/belgium-life-1",
       "date"     : "2022-07-02 00:00:00 +0200"
     } 
   
