@@ -54,5 +54,5 @@ Did not go well. I lasted about 30 minutes. Started off super jittery likely fro
 
 ## Links
 
-- [Results Sheet](https://www.strava.com/activities/7451108614)
+- [Results Sheet](https://cycling.vlaanderen//competitie/uitslagen/detail?date=2022-07-11&key=5417)
 - [Strava Ride](https://www.strava.com/activities/7451108614)
